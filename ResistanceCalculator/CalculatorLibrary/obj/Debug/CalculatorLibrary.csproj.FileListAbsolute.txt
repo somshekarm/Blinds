@@ -1,5 +1,4 @@
 C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
 C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
-C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojResolveAssemblyReference.cache
 C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
 C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
