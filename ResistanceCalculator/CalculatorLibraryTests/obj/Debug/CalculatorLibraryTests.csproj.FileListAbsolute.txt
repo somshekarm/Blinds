@@ -1,0 +1,8 @@
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\bin\Debug\CalculatorLibraryTests.dll
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\bin\Debug\CalculatorLibraryTests.pdb
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\bin\Debug\CalculatorLibrary.dll
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\bin\Debug\CalculatorLibrary.pdb
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\obj\Debug\CalculatorLibraryTests.csprojResolveAssemblyReference.cache
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\obj\Debug\CalculatorLibraryTests.dll
+C:\Soma-Tfs\Blinds\Blinds\ResistanceCalculator\CalculatorLibraryTests\obj\Debug\CalculatorLibraryTests.pdb

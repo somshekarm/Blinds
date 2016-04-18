@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<head>    
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/Data/ColorBandCollection.js"></script>
+</head>
+<html>
+<body>
+    <h3>Choose color band to calculate Ohm Value</h3>
+    <br />
+    <article>
+        <section ng-app="ohmCalculatorModule">
+            <div >  
+                <table ng-controller="ohmCalculatorController">
+                    <tr>
+                        <td ng-repeat="bandColor in colorBandCollection">
+                            <select style="margin: 4px"  ng-model="item" ng-options="colorBand.ColorInfo.Name for colorBand in bandColor.ColorBands"  ng-style ="{'color':colorBand.HexaDecimalValue}"  ng-change="selectedColor(item,bandColor.Name)"/>
+                        </td>       
+                        <td>
+                            <input type="submit" value="=" ng-click="calculateOhmValue()"/>
+                        </td>      
+                        <td>{{ohmValue}}</td>      
+                        </tr>                   
+                </table>
+            </div>
+        </section>
+    </article>
+</body>
+</html>
